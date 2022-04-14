@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I tinker with C++ and occassionaly make custom plugins for the Godot Engine.
+
+Currently, I'm working a cool & brand spanking new operating system made in the Godot Engine!  
+You can check it out here:
+
+<p align="center">
+  <a href="https://store.steampowered.com/app/1682150/Supreme_OS/"><img src="readme/store_capsule_header.png"></a>
+</p>
+
 <!--
 **2shady4u/2shady4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
